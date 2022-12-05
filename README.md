@@ -1,0 +1,2 @@
+# myapp
+Django boilerplate application
